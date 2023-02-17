@@ -1,0 +1,8 @@
+.main {
+    width: 100%;
+    height: 200px;
+    background-color: yellow;
+}
+.main h2 {
+    text-align: center;
+}
